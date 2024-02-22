@@ -15,10 +15,13 @@ async function main() {
           {
             title: 'Task 1 for User 1',
             isDone: true,
+            content: "Hello world"
           },
           {
             title: 'Task 2 for User 1',
             isDone: false,
+            content: "Hello world"
+
           },
         ],
       },
@@ -36,6 +39,8 @@ async function main() {
           {
             title: 'Task 1 for User 2',
             isDone: true,
+            content: "Hello world"
+
           },
         ],
       },
